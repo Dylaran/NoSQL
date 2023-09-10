@@ -1,5 +1,4 @@
 # NoSQL
-Project for CSE480: Database Systems at MSU.
 
 Implementation of a Document Store, a type of database with no schema
 
